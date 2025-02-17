@@ -21,7 +21,7 @@ pip install -r requirements.txt
 # Getting Started
 Here, we introduce how to reproduce our experimental results in the paper.
 
-# Model Training
+## Model Training
 The training data and scripts can be found in "./data" and "./scripts", respectively. Specifically, the training scripts are as follows:
 ``` bash
 datapath=./outputs
